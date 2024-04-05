@@ -34,6 +34,8 @@
 ### 스마트인재개발원 NCS-22회차
 -  프로젝트명 : Wellness Trip Planner
 -  프로젝트 기간 : 2024.02.23 ~ 2024.04.04 (6주)
+-  ![image](https://github.com/go564564/go564564/assets/157603421/b4df1651-7ad7-4bba-8361-48e1be57f228)
+
 
 
 
