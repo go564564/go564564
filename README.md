@@ -14,8 +14,14 @@
 ---
 
 ## Skills
-### Back-End: JAVA, Servlet
-### 
+### Back-End
+-JAVA 
+-Servlet
+### Front-End
+- JavaScript
+
+### Database
+- Oracle
 
 
 
