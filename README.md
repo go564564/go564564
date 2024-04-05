@@ -32,13 +32,13 @@
 
 ## Project
 ### 스마트인재개발원 NCS-22회차
--  프로젝트명 : Wellness Trip Planner
+-  프로젝트명 : Wellness Trip Planner (5명)
 -  프로젝트 기간 : 2024.02.23 ~ 2024.04.04 (6주)
 -  역할 : Back-End/DB
 -  로그인&회원가입 기능 구현
 -  여행계획 모달 창/달력 기능 구현
 -  여행 준비물 페이지 기능 구현
-
+- [프로젝트WBS](https://docs.google.com/spreadsheets/d/1CaiuuUZKAGyRq1yb3vmWcIJbqGKxOt7C1X1StA9JhyI/edit#gid=0)
 
 
 
