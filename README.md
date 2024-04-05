@@ -7,7 +7,8 @@
 - 알고리즘을 분석하고 구현하는 것을 즐기고 좋아합니다
 - 기타🎸를 치는걸 좋아합니다
 
-- Email | rhtjddjs929@gmail.com
+- Email  | rhtjddjs929@gmail.com
+- Github | https://github.com/go564564
 
 
 
