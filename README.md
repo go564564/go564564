@@ -8,7 +8,7 @@
 - 기타🎸를 치는걸 좋아합니다
 
 - Email  | rhtjddjs929@gmail.com
-- Github | https://github.com/go564564
+- GitHub | https://github.com/go564564
 
 
 
