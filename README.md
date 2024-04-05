@@ -31,8 +31,9 @@
 ---
 
 # 👥Project
+<details>
+<summary>## 스마트인재개발원 NCS-22회차 - 핵심프로젝트</summary>
 
-## 스마트인재개발원 NCS-22회차 - 핵심프로젝트
 ### 프로젝트명 : Wellness Trip Planner (5명)
 -  프로젝트 기간 : 2024.02.23 ~ 2024.04.04 (6주)
 -  프로젝트 주제 : 건강하고(wellbeing) + 행복한(happiness) 전라남도 여행스케줄러
@@ -47,7 +48,7 @@
 - 문제해결 : Ajax 비동기방식으로 전환후 로직 재구현
 
 - [프로젝트깃허브](https://github.com/duggie27/wellnessRoad) [프로젝트WBS](https://docs.google.com/spreadsheets/d/1CaiuuUZKAGyRq1yb3vmWcIJbqGKxOt7C1X1StA9JhyI/edit#gid=0)
-
+</details>
 ----
 
 ## 스마트인재개발원 NCS-22회차 - 미니프로젝트
