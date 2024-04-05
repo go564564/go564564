@@ -42,6 +42,10 @@
 -  여행계획 모달 창/달력 기능 구현 (BootStrap/DataRangePicker)
 -  여행 준비물 페이지 기능 구현    (Ajax 비동기)
 
+### 트러블슈팅
+- 문제발생 : 준비물 페이지를 동기방식으로 구현하다가 DB문제와 수정,삭제 기능에서 동기화문제
+- 문제해결 : Ajax 비동기방식으로 전환후 로직 재구현
+
 - [프로젝트깃허브](https://github.com/duggie27/wellnessRoad) [프로젝트WBS](https://docs.google.com/spreadsheets/d/1CaiuuUZKAGyRq1yb3vmWcIJbqGKxOt7C1X1StA9JhyI/edit#gid=0)
 
 
