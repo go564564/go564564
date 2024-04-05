@@ -30,7 +30,7 @@
 
 ---
 
-# Project
+# 👥Project
 
 ## 스마트인재개발원 NCS-22회차 - 핵심프로젝트
 ### 프로젝트명 : Wellness Trip Planner (5명)
