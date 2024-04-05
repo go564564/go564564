@@ -48,7 +48,7 @@
 
 - [프로젝트깃허브](https://github.com/duggie27/wellnessRoad) [프로젝트WBS](https://docs.google.com/spreadsheets/d/1CaiuuUZKAGyRq1yb3vmWcIJbqGKxOt7C1X1StA9JhyI/edit#gid=0)
 
-
+----
 
 ## 스마트인재개발원 NCS-22회차 - 미니프로젝트
 ### 프로젝트명 : 개미는 뚠뚠 (4명)
