@@ -48,7 +48,7 @@
 - 문제발생 : 준비물 페이지를 동기방식으로 구현하다가 DB문제와 수정,삭제 기능에서 동기화문제
 - 문제해결 : Ajax 비동기방식으로 전환후 로직 재구현
 
-- [프로젝트깃허브](https://github.com/duggie27/wellnessRoad) [프로젝트WBS](https://docs.google.com/spreadsheets/d/1CaiuuUZKAGyRq1yb3vmWcIJbqGKxOt7C1X1StA9JhyI/edit#gid=0)
+### [프로젝트깃허브](https://github.com/duggie27/wellnessRoad) [프로젝트WBS](https://docs.google.com/spreadsheets/d/1CaiuuUZKAGyRq1yb3vmWcIJbqGKxOt7C1X1StA9JhyI/edit#gid=0)
 
 ---
 
@@ -65,7 +65,7 @@
 ### 역할 : Front-End/Back-End
 - 전체 View 구현
 - 디버깅
-- [프로젝트깃허브](https://github.com/2023-SMHRD-KDT-AI-16/FFRepo)
+### [프로젝트깃허브](https://github.com/2023-SMHRD-KDT-AI-16/FFRepo)
 
 ---
 </details>
