@@ -39,8 +39,7 @@
 -  로그인&회원가입 기능 구현
 -  여행계획 모달 창/달력 기능 구현
 -  여행 준비물 페이지 기능 구현
-- [프로젝트깃허브](https://github.com/duggie27/wellnessRoad)
-- [프로젝트WBS](https://docs.google.com/spreadsheets/d/1CaiuuUZKAGyRq1yb3vmWcIJbqGKxOt7C1X1StA9JhyI/edit#gid=0)
+- [프로젝트깃허브](https://github.com/duggie27/wellnessRoad) [프로젝트WBS](https://docs.google.com/spreadsheets/d/1CaiuuUZKAGyRq1yb3vmWcIJbqGKxOt7C1X1StA9JhyI/edit#gid=0)
 
 
 
