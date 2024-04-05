@@ -31,7 +31,7 @@
 
 # 👥Project
 <details>
-<summary>스마트인재개발원 NCS-22회차 - 핵심프로젝트</summary>
+<summary><h3>스마트인재개발원 NCS-22회차 - 핵심프로젝트</h3></summary>
 
 ### 프로젝트명 : Wellness Trip Planner (5명)
 -  프로젝트 기간 : 2024.02.23 ~ 2024.04.04 (6주)
