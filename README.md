@@ -38,9 +38,9 @@
 -  프로젝트 주제 : 건강하고(wellbeing) + 행복한(happiness) 전라남도 여행스케줄러
 
 ###  역할 : Back-End/DB
--  로그인&회원가입 기능 구현
--  여행계획 모달 창/달력 기능 구현
--  여행 준비물 페이지 기능 구현
+-  로그인&회원가입 기능 구현 (Ajax 비동기)
+-  여행계획 모달 창/달력 기능 구현 (BootStrap/DataRangePicker)
+-  여행 준비물 페이지 기능 구현    (Ajax 비동기)
 
 - [프로젝트깃허브](https://github.com/duggie27/wellnessRoad) [프로젝트WBS](https://docs.google.com/spreadsheets/d/1CaiuuUZKAGyRq1yb3vmWcIJbqGKxOt7C1X1StA9JhyI/edit#gid=0)
 
