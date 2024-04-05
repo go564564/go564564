@@ -15,8 +15,8 @@
 
 ## Skills
 ### Back-End
--JAVA 
--Servlet
+- JAVA 
+- Servlet
 ### Front-End
 - JavaScript
 
