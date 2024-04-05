@@ -27,7 +27,6 @@
 ### Collaboration
 - Github
 
-
 ---
 
 # 👥Project
@@ -49,9 +48,9 @@
 
 - [프로젝트깃허브](https://github.com/duggie27/wellnessRoad) [프로젝트WBS](https://docs.google.com/spreadsheets/d/1CaiuuUZKAGyRq1yb3vmWcIJbqGKxOt7C1X1StA9JhyI/edit#gid=0)
 </details>
-----
 
-## 스마트인재개발원 NCS-22회차 - 미니프로젝트
+<details>
+<summary>스마트인재개발원 NCS-22회차 - 미니프로젝트</summary>
 ### 프로젝트명 : 개미는 뚠뚠 (4명)
 - 프로젝트 기간 : 2024.01.31 ~ 2024.02.02
 - 프로젝트 주제 : 모의주식 투자 게임
@@ -59,6 +58,6 @@
 - 전체 View 구현
 - 디버깅
 - [프로젝트깃허브](https://github.com/2023-SMHRD-KDT-AI-16/FFRepo)
-
+</details>
 
 
